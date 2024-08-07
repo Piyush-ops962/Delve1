@@ -1,0 +1,12 @@
+#root {
+    color: black;
+  }
+  
+  .submenu {
+    display: none;
+    margin-left: 12px;
+  }
+  
+  ul {
+    cursor: pointer;
+  }
